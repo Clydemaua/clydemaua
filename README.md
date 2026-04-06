@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Clyde Maua 👋
 
-<!--
-**Clydemaua/clydemaua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Electrical & Electronics Engineering Student @ Strathmore University
+📍 Nairobi, Kenya
+🔭 Currently working on: [your current project]
+🌱 Learning: Python | CCNA | Embedded Systems
+💼 Open to: Industrial Attachments & Collaborations
+📫 Reach me: clyde.maua@strathmore.edu
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- Languages: Python, C++
+- Tools: Cisco Packet Tracer, Arduino IDE, Proteus, AutoCAD
+- Hardware: Arduino, NanoVNA
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+[you'll add a stats widget here - explained below]
+![Clyde's GitHub Stats](https://github-readme-stats.vercel.app/api?username=clydemaua&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=clydemaua&layout=compact&theme=tokyonight)
